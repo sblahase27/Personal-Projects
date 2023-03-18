@@ -1,4 +1,4 @@
-name: text_data_analysis
+name: youtube_data_analysis
 channels:
   - defaults
 dependencies:
@@ -128,4 +128,3 @@ dependencies:
       - websocket-client==1.5.1
       - widgetsnbextension==4.0.5
       - wordcloud==1.8.2.2
-prefix: C:\Users\suraj.lahase\miniconda\envs\text_data_analysis
